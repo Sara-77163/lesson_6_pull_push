@@ -1,0 +1,3 @@
+const sari=()=>{
+return "sari"
+}
